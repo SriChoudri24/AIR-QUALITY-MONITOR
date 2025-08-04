@@ -50,3 +50,7 @@ As part of my IoT internship at *CODTECH IT Solutions, I developed an **Air Qual
 ## 🔗 Simulation Link
 
 [🔗 Open Wokwi Simulation](https://wokwi.com/projects/438357000756873217)
+
+*OUTPUT*
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/fadee5b1-7f4c-423a-b91a-032d44f13986" />
