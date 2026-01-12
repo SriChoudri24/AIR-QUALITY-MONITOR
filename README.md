@@ -54,3 +54,10 @@ As part of my IoT internship at *CODTECH IT Solutions, I developed an **Air Qual
 *OUTPUT*
 
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/fadee5b1-7f4c-423a-b91a-032d44f13986" />
+
+## Key Learnings
+- Hands-on experience with IoT sensors (DHT22, MQ135)
+- Sensor interfacing and analog data reading
+- Serial communication and data monitoring
+- IoT system simulation using Wokwi
+- Debugging sensor data and timing issues
