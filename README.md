@@ -61,3 +61,9 @@ As part of my IoT internship at *CODTECH IT Solutions, I developed an **Air Qual
 - Serial communication and data monitoring
 - IoT system simulation using Wokwi
 - Debugging sensor data and timing issues
+
+## Future Improvements
+- Integrate WiFi module (ESP8266 / ESP32)
+- Send data to cloud dashboard (ThingSpeak / Firebase)
+- Add LCD or OLED display
+- Implement alert system for high pollution levels
